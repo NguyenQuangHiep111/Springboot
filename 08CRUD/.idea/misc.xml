@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/08CRUD/crud/04AddNew/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/06Delete/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/08Search/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/02LoadCSV/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/03ViewDetail/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/05EditUpdate/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/01GetAllBooks/bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/08CRUD/crud/07DeleteByPOST/bookstore/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

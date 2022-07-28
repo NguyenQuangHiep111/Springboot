@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/01GetAllBooks/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/01GetAllBooks/bookstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/02LoadCSV/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/02LoadCSV/bookstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/03ViewDetail/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/04AddNew/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/05EditUpdate/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/05EditUpdate/bookstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/06Delete/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/06Delete/bookstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/07DeleteByPOST/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/08Search/bookstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08CRUD/crud/08Search/bookstore/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/08CRUD.iml" filepath="$PROJECT_DIR$/.idea/08CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/04AddNew/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/08CRUD/crud/04AddNew/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/06Delete/bookstore/bookstore (1).iml" filepath="$PROJECT_DIR$/08CRUD/crud/06Delete/bookstore/bookstore (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/08Search/bookstore/bookstore (2).iml" filepath="$PROJECT_DIR$/08CRUD/crud/08Search/bookstore/bookstore (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/02LoadCSV/bookstore/bookstore (3).iml" filepath="$PROJECT_DIR$/08CRUD/crud/02LoadCSV/bookstore/bookstore (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/03ViewDetail/bookstore/bookstore (4).iml" filepath="$PROJECT_DIR$/08CRUD/crud/03ViewDetail/bookstore/bookstore (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/05EditUpdate/bookstore/bookstore (5).iml" filepath="$PROJECT_DIR$/08CRUD/crud/05EditUpdate/bookstore/bookstore (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/01GetAllBooks/bookstore/bookstore (6).iml" filepath="$PROJECT_DIR$/08CRUD/crud/01GetAllBooks/bookstore/bookstore (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08CRUD/crud/07DeleteByPOST/bookstore/bookstore (7).iml" filepath="$PROJECT_DIR$/08CRUD/crud/07DeleteByPOST/bookstore/bookstore (7).iml" />
+    </modules>
+  </component>
+</project>
