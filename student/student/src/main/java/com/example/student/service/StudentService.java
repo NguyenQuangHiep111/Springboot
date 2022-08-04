@@ -2,7 +2,6 @@ package com.example.student.service;
 
 import com.example.student.dto.StudentDto;
 import com.example.student.exception.NotFoundException;
-import com.example.student.mapper.StudentMapper;
 import com.example.student.model.Student;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
