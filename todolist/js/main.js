@@ -65,7 +65,7 @@ const renderTodo = arr => {
             <div class="todo-item ${t.status ? "active-todo" : ""}">
                 <div class="todo-item-title">
                     <input type="checkbox" ${t.status ? "checked" : ""}/>
-                    <p>${t.name}</p>
+                    <p>${t.title}</p>
                 </div>
                 <div class="option">
                     <button class="btn btn-update">
