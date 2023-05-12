@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="https://www.thymeleaf.org"
+      th:replace="~{/layout/layout :: main-layout(~{:: title}, ~{:: #css}, ~{:: #product})}">
+<head>
+    <title>Shop</title>
+
+    <th:block id="css">
+        <link rel="stylesheet" href="/css/product.css">
+    </th:block>
+</head>
+<body>
+<div id="product">
+        <div class="container">
+            <div class="banner-wrapper">
+                <img src="/images/bg-discount2.png" alt="banner-discount">
+            </div>
+            <h2 class="title-main">Ưu đãi trong thời gian có hạn</h2>
+            <div class="card-list">
+                <th:block th:each="product : ${products}">
+                    <th:block th:replace="~{/fragments/product :: product(${product})}"></th:block>
+                </th:block>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
